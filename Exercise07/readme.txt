@@ -1,0 +1,1 @@
+Please refer to comparison.md in this directory for the full summary comparison table, timing benchmarks (2, 4, 8 processes), scalability analysis, and the detailed answer to the thinking question on MPI_Scan vs MPI_Allreduce.
